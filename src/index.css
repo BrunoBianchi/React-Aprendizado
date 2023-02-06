@@ -1,0 +1,10 @@
+body{
+    background-color: #1e2124;
+    color:white;
+    padding:10px;
+    margin:auto;
+}
+.Cards  {
+    display: flex;
+    flex-wrap: wrap;
+}
